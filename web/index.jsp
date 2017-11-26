@@ -11,6 +11,5 @@
     <title>$Title$</title>
   </head>
   <body>
-  <img src="images/hello.jpg" />
   </body>
 </html>
